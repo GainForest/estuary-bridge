@@ -1,0 +1,24 @@
+# Ignore all TIFF files
+*.tif
+*.tiff
+
+# Some files for authentification
+# - for PyDrive
+client_secrets.json
+# - for GEE (this one needs to be written in another directory : $HOME/.config/earthengine/credentials)
+credentials 
+# - for Google Drive
+mycreds.txt
+
+# For the API keys
+config.py
+
+*.sh
+.venv
+
+*.pyc
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

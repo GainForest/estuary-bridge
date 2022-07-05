@@ -1,0 +1,1849 @@
+lat, lon :  00N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 040W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 22534    0 22534    0     0  10654      0 --:--:--  0:00:02 --:--:-- 10654
+{"cid":"bafybeieobc5yyewn766o27nyem2wabouyx25tlzeul3f25hhhxh4iwhrkm","estuaryId":9863861,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 050W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 22923    0 22923    0     0  10001      0 --:--:--  0:00:02 --:--:-- 10001
+{"cid":"bafybeiehg5sdzgzsfg425qioflmfdtxiecc3xxjnhoubnxk5ra5wiaw45q","estuaryId":9864095,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 060W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 23661    0 23661    0     0  11789      0 --:--:--  0:00:02 --:--:-- 11789
+{"cid":"bafybeicb2pernbjacaqttwwxomiu32odbd445wr6v4eecifgwarwb7vtyq","estuaryId":9864364,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 070W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 24057    0 24057    0     0  12040      0 --:--:--  0:00:01 --:--:-- 12034
+{"cid":"bafybeif3atmzqnj43jgilcqrhgxxtzlkop2l6mbhr5etdecobaaujusanu","estuaryId":9864482,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.80.63.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 080W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 24446    0 24446    0     0   9696      0 --:--:--  0:00:02 --:--:--  9696
+{"cid":"bafybeifaojmicsemcittwncrnpy4dexzjqfgtjfbw2gxdafxr3tq2xyzlm","estuaryId":9864602,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 090W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 24847    0 24847    0     0  12404      0 --:--:--  0:00:02 --:--:-- 12404
+{"cid":"bafybeie5i6uqjpplx5nnvj3kpivnhdzhcrn3sqnzxthboqdrnhis5njkfe","estuaryId":9864689,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 100W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 25236    0 25236    0     0  12150      0 --:--:--  0:00:02 --:--:-- 12150
+{"cid":"bafybeiffojbxcszsp4tnn5wvz3uh7kgcbwgkqsjhfwwck2joc3riwfmz6q","estuaryId":9864831,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_00N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 000E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 25631    0 25631    0     0  10453      0 --:--:--  0:00:02 --:--:-- 10453
+{"cid":"bafybeicn2enkhthxfv4lyndy3jjyagcm3ulcz7mmuugb4t6xk27ihrkbn4","estuaryId":9864935,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 26026    0 26026    0     0  11315      0 --:--:--  0:00:02 --:--:-- 11315
+{"cid":"bafybeieq6gl2sdqu7daktsymm6iteakkf43k3mihlx6ds7vtscsjypxd2m","estuaryId":9865099,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 26770    0 26770    0     0  12778      0 --:--:--  0:00:02 --:--:-- 12796
+{"cid":"bafybeic6wq3iud4v3honot5yrx5dg573rouki4qqnuvfeemo3eafazfvpu","estuaryId":9865426,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 030E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 27166    0 27166    0     0  17709      0 --:--:--  0:00:01 --:--:-- 17697
+{"cid":"bafybeihxvahrfaxrrsji4lmbtzdarkbmgd4wuwpwbwcxphzra67broy6ay","estuaryId":9865681,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 040E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 27561    0 27561    0     0  16098      0 --:--:--  0:00:01 --:--:-- 16089
+{"cid":"bafybeic3vhket45am2cloquuteduivt36w3htkfdu2fgwcgwieoouxdm64","estuaryId":9865787,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_00N_050E.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_00N_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 070E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 27950    0 27950    0     0  10555      0 --:--:--  0:00:02 --:--:-- 10551
+{"cid":"bafybeifcjgfcxtz5lyosbk2lrhmqulpnsxwfouyz6fmbk3ibvxry34triy","estuaryId":9865887,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.80.63.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_00N_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  00N 090E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 28345    0 28345    0     0  12366      0 --:--:--  0:00:02 --:--:-- 12366
+{"cid":"bafybeie75bkuasm7cwxrgdl5w4omwjsz45baw37n57ihocqgsx6bfm2va4","estuaryId":9865966,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 100E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 28740    0 28740    0     0  15015      0 --:--:--  0:00:01 --:--:-- 15007
+{"cid":"bafybeiel7mll7zbnur7j5lcd3zn5b7r4uw34nhelc3puoqpzrhucic3xe4","estuaryId":9866148,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.80.63.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 110E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 29485    0 29485    0     0  15058      0 --:--:--  0:00:01 --:--:-- 15051
+{"cid":"bafybeicolnhqktguhxizy7sixk7od757foqndpgvxi7usttpbeu6dk3nlm","estuaryId":9866366,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 120E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 29881    0 29881    0     0  15677      0 --:--:--  0:00:01 --:--:-- 15669
+{"cid":"bafybeihtan2fzqnoxske7j2juhhsqsn3xp55v7iscnrk3ljbavjbrxudji","estuaryId":9866492,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 130E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 30270    0 30270    0     0  11043      0 --:--:--  0:00:02 --:--:-- 11039
+{"cid":"bafybeiafe6rs4jdtczotcewu5cz555m3yojubk7nwep2n4w3kz4lrtxwty","estuaryId":9866604,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.80.63.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 140E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 30665    0 30665    0     0  16451      0 --:--:--  0:00:01 --:--:-- 16451
+{"cid":"bafybeige774xkuxvfxtj2sjy6zoz55jkl67qplrgaevu2sijkkiezror4y","estuaryId":9866737,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 150E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 31060    0 31060    0     0  13451      0 --:--:--  0:00:02 --:--:-- 13451
+{"cid":"bafybeihe4ussj4tkn2akz6ekwiwkcgadnsrtvqqvffpsxxgz3ur64v272y","estuaryId":9866830,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 160E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 31455    0 31455    0     0  14609      0 --:--:--  0:00:02 --:--:-- 14609
+{"cid":"bafybeiel76qfimwyngcs6qcjoe46nbwfpyv4nlueba626wthyx5kivc3ya","estuaryId":9866949,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  00N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_00N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 010W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 31850    0 31850    0     0  13687      0 --:--:--  0:00:02 --:--:-- 13687
+{"cid":"bafybeihshygrbadkyfgth7kspuimmems4hgqhybkff3d6glqkxwxme4qqa","estuaryId":9867208,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 020W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 32595    0 32595    0     0  13513      0 --:--:--  0:00:02 --:--:-- 13513
+{"cid":"bafybeids5vev4wfvxnj4h6hz5f5c6udoqmpjzo3m2guzqw67l6jlzly5pq","estuaryId":9867352,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 050W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 32984    0 32984    0     0  16492      0 --:--:--  0:00:02 --:--:-- 16492
+{"cid":"bafybeicokoquo73leynbncpagbf7z5yccyqmty6nkst65x2l4axaeqzvq4","estuaryId":9867438,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 060W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 33379    0 33379    0     0  16606      0 --:--:--  0:00:02 --:--:-- 16606
+{"cid":"bafybeidfofe6k4hscty5iv5uvkuuuhl6vfk27f44ip7ohv4id6ixeo5dty","estuaryId":9867526,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 070W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 33774    0 33774    0     0  20912      0 --:--:--  0:00:01 --:--:-- 20912
+{"cid":"bafybeiezakfm4ogzrhnrthwdhk5aqgzav26ibma7zovw5wsusesuduacha","estuaryId":9867676,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 080W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 34169    0 34169    0     0  16578      0 --:--:--  0:00:02 --:--:-- 16578
+{"cid":"bafybeicz2m3amez5nctq5d67ehj7sla2e64nwu7mdhnd6pwxwofe4boqwu","estuaryId":9867905,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 090W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 34570    0 34570    0     0  15579      0 --:--:--  0:00:02 --:--:-- 15572
+{"cid":"bafybeiavv6fvi34nyqf76427izcok4j2x3fympv4hjviwp44xsgsuye4dm","estuaryId":9868023,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 100W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 35302    0 35302    0     0  15034      0 --:--:--  0:00:02 --:--:-- 15028
+{"cid":"bafybeifq2powd3c4hcobud5lceihpki3zjjbbwizjjcxyjmqkzthuffo3u","estuaryId":9868146,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_10N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 000E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 35691    0 35691    0     0  22747      0 --:--:--  0:00:01 --:--:-- 22733
+{"cid":"bafybeictdhsedrwyvxs5iwrrpmhithmecw5xzbgl4fx7wlyvl7r2opdhmm","estuaryId":9868367,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 36098    0 36098    0     0  21824      0 --:--:--  0:00:01 --:--:-- 21811
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 36493    0 36493    0     0  17629      0 --:--:--  0:00:02 --:--:-- 17629
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 030E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 36888    0 36888    0     0  21006      0 --:--:--  0:00:01 --:--:-- 20994
+{"cid":"bafybeiewkzcoa5r4rlwqvm6uqh3ubwaak7yruvpljemw7wv4eqkb5kobpu","estuaryId":9869694,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 040E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 37283    0 37283    0     0  23807      0 --:--:--  0:00:01 --:--:-- 23792
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 050E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 37678    0 37678    0     0  17095      0 --:--:--  0:00:02 --:--:-- 17095
+{"cid":"bafybeibh6wnf3ml7ivehan4mjmcjgktreh7mx6sbsord26vxbo23kfzvn4","estuaryId":9869802,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_10N_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 070E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 38067    0 38067    0     0  21066      0 --:--:--  0:00:01 --:--:-- 21054
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 080E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 38073    0 38073    0     0  21656      0 --:--:--  0:00:01 --:--:-- 21644
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 090E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 38468    0 38468    0     0  24979      0 --:--:--  0:00:01 --:--:-- 24963
+{"cid":"bafybeihqwbr6opgbdzijabxkdx3iptwg6s3ld7kjbtprj6owl5phlxdlti","estuaryId":9869927,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.170.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.118.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.244.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.179.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10N 100E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 38863    0 38863    0     0  19125      0 --:--:--  0:00:02 --:--:-- 19125
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 110E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 38869    0 38869    0     0  25092      0 --:--:--  0:00:01 --:--:-- 25076
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 120E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 39259    0 39259    0     0  20394      0 --:--:--  0:00:01 --:--:-- 20383
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 130E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 39660    0 39660    0     0  27332      0 --:--:--  0:00:01 --:--:-- 27332
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_10N_140E.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_10N_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_10N_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  10N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_10N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 010W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 40055    0 40055    0     0  24925      0 --:--:--  0:00:01 --:--:-- 24925
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 020W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 40741    0 40741    0     0  22926      0 --:--:--  0:00:01 --:--:-- 22913
+{"cid":"bafybeibxcvyjqn7cokj2mtqgqzr6urgrkvz7nmxdgoevkpdmfwx2iuciqq","estuaryId":9870664,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.187.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 060W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41130    0 41130    0     0  27979      0 --:--:--  0:00:01 --:--:-- 27979
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 070W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41130    0 41130    0     0  23829      0 --:--:--  0:00:01 --:--:-- 23815
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 080W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41130    0 41130    0     0  27059      0 --:--:--  0:00:01 --:--:-- 27041
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 090W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41136    0 41136    0     0  23600      0 --:--:--  0:00:01 --:--:-- 23587
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 100W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41525    0 41525    0     0  25969      0 --:--:--  0:00:01 --:--:-- 25969
+curl: (55) SSL_write() returned SYSCALL, errno = 32
+lat, lon :  20N 110W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41531    0 41531    0     0  20943      0 --:--:--  0:00:01 --:--:-- 20932
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 120W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 41920    0 41920    0     0  27327      0 --:--:--  0:00:01 --:--:-- 27327
+{"cid":"bafybeibuqk6j5yjqgdyo53ivrl4slvs36w3msyr6bnzmmtowm2j4h7zcym","estuaryId":9871016,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.4.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.141.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.121.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.102.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.136.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.71.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.232.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.241.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.248.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.241.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.52.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.49.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.30.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.144.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 160W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 42309    0 42309    0     0  30972      0 --:--:--  0:00:01 --:--:-- 30972
+{"cid":"bafybeidhwyxxuw4ljion6dlndnneihznko6vbopkejuzfbekuzmuog4dtu","estuaryId":9871055,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.214.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.179.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.178.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.136.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.100.70.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.46.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.119.248.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.165.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.30.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.232.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.65.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.241.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.111.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.61.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.4.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.173.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.209.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.118.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.71.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.198.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.14.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.217.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_20N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 000E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 42704    0 42704    0     0  30590      0 --:--:--  0:00:01 --:--:-- 30590
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 43442    0 43442    0     0  18314      0 --:--:--  0:00:02 --:--:-- 18314
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 43837    0 43837    0     0  23231      0 --:--:--  0:00:01 --:--:-- 23218
+{"cid":"bafybeihygrbdpggp267s7zxwvc5n3ozg34w7cd74dzrpjcc7hjesp3z7kq","estuaryId":9871301,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 030E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 44226    0 44226    0     0  24529      0 --:--:--  0:00:01 --:--:-- 24515
+{"cid":"bafybeiccqz6um3gtts5gyop7pv4ds6qhyuuvy4dwo4ap6dirl3g3k256de","estuaryId":9871699,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.111.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.192.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.104.131.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.214.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.49.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.14.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.118.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.144.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.99.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.141.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.46.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 040E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 44957    0 44957    0     0  16073      0 --:--:--  0:00:02 --:--:-- 16067
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 050E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 45346    0 45346    0     0  19238      0 --:--:--  0:00:02 --:--:-- 19238
+{"cid":"bafybeicg33cu6qcsw652udrnfrp4bfnbh47tay44x2igzz4dg5g44hixry","estuaryId":9871764,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 070E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 45735    0 45735    0     0  18345      0 --:--:--  0:00:02 --:--:-- 18345
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 080E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 46503    0 46503    0     0  18571      0 --:--:--  0:00:02 --:--:-- 18564
+{"cid":"bafybeifiiyecewbkosukxkd4xq2vyfaw7g6ccsza24kdfggcpmnb27mnru","estuaryId":9871904,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.52.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 090E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 46898    0 46898    0     0  14619      0 --:--:--  0:00:03 --:--:-- 14619
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 100E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 47293    0 47293    0     0  16640      0 --:--:--  0:00:02 --:--:-- 16634
+{"cid":"bafybeid5pciyrtmlodjoul7sy2hha5trrvkoldey4jqwzwqtsjt5t3lhly","estuaryId":9872360,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.46.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.4.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.39.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.146.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.187.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 110E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 48032    0 48032    0     0  16823      0 --:--:--  0:00:02 --:--:-- 16817
+{"cid":"bafybeiffhjef2eolexqgfivwxwcdheo26cp4jmiyhwus6rt3qdyinfypce","estuaryId":9872401,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.102.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.61.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.111.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.170.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.231.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.141.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.115.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.71.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.195.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.11.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.209.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.121.116.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.247.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.173.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.4.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.240.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.49.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.118.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.247.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.187.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.146.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.52.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.39.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.178.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.178.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.136.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.17.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.147.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.104.242.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.146.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.118.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.30.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.143.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.209.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.12.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.112.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20N 120E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 48421    0 48421    0     0  20988      0 --:--:--  0:00:02 --:--:-- 20988
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  20N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_130E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_140E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  20N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_20N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 010W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 48810    0 48810    0     0  17283      0 --:--:--  0:00:02 --:--:-- 17277
+{"cid":"bafybeib3kbx7xwh6fkp4qmxrbs4tzdgd67i4o2ps6i4gyv2br2r4uopkuq","estuaryId":9872549,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.49.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.226.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.39.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.61.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.205.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  30N 020W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 49199    0 49199    0     0  20064      0 --:--:--  0:00:02 --:--:-- 20064
+{"cid":"bafybeiepwigoz6ypmvvtma4lyeendag4u6vjkogtwvzvrydaehbwywizmi","estuaryId":9872588,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.165.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.89.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.53.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.119.160.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.138.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.187.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.64.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.253.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.161.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.52.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.153.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.146.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.11.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.9.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.10.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.214.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.188.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.125.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.121.210.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.61.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.124.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.111.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.40.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.198.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.119.248.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.102.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.241.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.104.131.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.148.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.205.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.149.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.112.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.247.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  30N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_060W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_070W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_080W_tot.zarr/.zmetadata')
+lat, lon :  30N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_090W_tot.zarr/.zmetadata')
+lat, lon :  30N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_100W_tot.zarr/.zmetadata')
+lat, lon :  30N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_110W_tot.zarr/.zmetadata')
+lat, lon :  30N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_120W_tot.zarr/.zmetadata')
+lat, lon :  30N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_160W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_160W_tot.zarr/.zmetadata')
+lat, lon :  30N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_170W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_170W_tot.zarr/.zmetadata')
+lat, lon :  30N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_30N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 000E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 49606    0 49606    0     0  17087      0 --:--:--  0:00:02 --:--:-- 17081
+{"cid":"bafybeiaptju7z46dmiqraaomwaud6uzynakp66laqkrruviml73xmelpce","estuaryId":9872679,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.9.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.124.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.102.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.178.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.64.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.153.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.198.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.56.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.118.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.119.248.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.231.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.151.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.101.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.143.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.226.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.112.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.99.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.108.85.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.53.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.149.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.44.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.137.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.188.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.115.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.146.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.209.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.165.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.52.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.253.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.187.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.196.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.10.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  30N 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 50001    0 50001    0     0  19157      0 --:--:--  0:00:02 --:--:-- 19150
+{"cid":"bafybeidtkxdcq4fvlqv7gzb3xpl34yodtuyd7hkt6ukreevepajiscillq","estuaryId":9872728,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.232.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.105.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.104.179.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.247.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.178.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.143.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.31.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.9.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.253.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.211.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.141.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.190.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.112.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.231.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.196.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.209.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.77.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.153.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.10.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.146.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.226.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.53.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.149.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.247.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.11.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.188.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.198.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.94.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  30N 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 50396    0 50396    0     0  22093      0 --:--:--  0:00:02 --:--:-- 22103
+{"cid":"bafybeicv4imtltvmdyws4xltexjnzbtrwyvbn6wdofgwreiwkgmibkjp2q","estuaryId":9872777,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.77.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.178.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.231.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.27.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.144.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.115.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.104.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.56.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.181.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.209.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.149.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.94.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.9.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.74.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.143.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.226.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.99.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.121.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  30N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_030E_tot.zarr/.zmetadata')
+lat, lon :  30N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_040E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_040E_tot.zarr/.zmetadata')
+lat, lon :  30N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_050E_tot.zarr/.zmetadata')
+lat, lon :  30N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_060E_tot.zarr/.zmetadata')
+lat, lon :  30N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_070E_tot.zarr/.zmetadata')
+lat, lon :  30N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_080E_tot.zarr/.zmetadata')
+lat, lon :  30N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_090E_tot.zarr/.zmetadata')
+lat, lon :  30N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_100E_tot.zarr/.zmetadata')
+lat, lon :  30N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_110E_tot.zarr/.zmetadata')
+lat, lon :  30N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30N_120E_tot.zarr/.zmetadata')
+lat, lon :  30N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_130E.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_140E.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  30N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_30N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_010W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_010W_tot.zarr/.zmetadata')
+lat, lon :  40N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_020W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_020W_tot.zarr/.zmetadata')
+lat, lon :  40N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_060W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_070W_tot.zarr/.zmetadata')
+lat, lon :  40N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_080W_tot.zarr/.zmetadata')
+lat, lon :  40N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_090W_tot.zarr/.zmetadata')
+lat, lon :  40N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_100W_tot.zarr/.zmetadata')
+lat, lon :  40N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_110W_tot.zarr/.zmetadata')
+lat, lon :  40N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_120W_tot.zarr/.zmetadata')
+lat, lon :  40N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_130W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_130W_tot.zarr/.zmetadata')
+lat, lon :  40N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_40N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 000E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_000E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_000E_tot.zarr/.zmetadata')
+lat, lon :  40N 010E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_010E_tot.zarr/.zmetadata')
+lat, lon :  40N 020E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_020E_tot.zarr/.zmetadata')
+lat, lon :  40N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_030E_tot.zarr/.zmetadata')
+lat, lon :  40N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_040E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_040E_tot.zarr/.zmetadata')
+lat, lon :  40N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_050E_tot.zarr/.zmetadata')
+lat, lon :  40N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_060E_tot.zarr/.zmetadata')
+lat, lon :  40N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_070E_tot.zarr/.zmetadata')
+lat, lon :  40N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_080E_tot.zarr/.zmetadata')
+lat, lon :  40N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_090E_tot.zarr/.zmetadata')
+lat, lon :  40N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_100E_tot.zarr/.zmetadata')
+lat, lon :  40N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_110E_tot.zarr/.zmetadata')
+lat, lon :  40N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_120E_tot.zarr/.zmetadata')
+lat, lon :  40N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_130E_tot.zarr/.zmetadata')
+lat, lon :  40N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40N_140E_tot.zarr/.zmetadata')
+lat, lon :  40N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  40N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_40N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_010W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_010W_tot.zarr/.zmetadata')
+lat, lon :  50N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_060W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_060W_tot.zarr/.zmetadata')
+lat, lon :  50N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_070W_tot.zarr/.zmetadata')
+lat, lon :  50N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_080W_tot.zarr/.zmetadata')
+lat, lon :  50N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_090W_tot.zarr/.zmetadata')
+lat, lon :  50N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_100W_tot.zarr/.zmetadata')
+lat, lon :  50N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_110W_tot.zarr/.zmetadata')
+lat, lon :  50N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_120W_tot.zarr/.zmetadata')
+lat, lon :  50N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_130W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_130W_tot.zarr/.zmetadata')
+lat, lon :  50N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_50N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 000E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_000E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_000E_tot.zarr/.zmetadata')
+lat, lon :  50N 010E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_010E_tot.zarr/.zmetadata')
+lat, lon :  50N 020E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_020E_tot.zarr/.zmetadata')
+lat, lon :  50N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_030E_tot.zarr/.zmetadata')
+lat, lon :  50N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_040E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_040E_tot.zarr/.zmetadata')
+lat, lon :  50N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_050E_tot.zarr/.zmetadata')
+lat, lon :  50N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_060E_tot.zarr/.zmetadata')
+lat, lon :  50N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_070E_tot.zarr/.zmetadata')
+lat, lon :  50N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_080E_tot.zarr/.zmetadata')
+lat, lon :  50N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_090E_tot.zarr/.zmetadata')
+lat, lon :  50N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_100E_tot.zarr/.zmetadata')
+lat, lon :  50N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_110E_tot.zarr/.zmetadata')
+lat, lon :  50N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_120E_tot.zarr/.zmetadata')
+lat, lon :  50N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_130E_tot.zarr/.zmetadata')
+lat, lon :  50N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_140E_tot.zarr/.zmetadata')
+lat, lon :  50N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_150E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50N_150E_tot.zarr/.zmetadata')
+lat, lon :  50N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  50N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_50N_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  60N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_010W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_010W_tot.zarr/.zmetadata')
+lat, lon :  60N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_020W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_020W_tot.zarr/.zmetadata')
+lat, lon :  60N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  60N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  60N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  60N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_060W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_060W_tot.zarr/.zmetadata')
+lat, lon :  60N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_070W_tot.zarr/.zmetadata')
+lat, lon :  60N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_080W_tot.zarr/.zmetadata')
+lat, lon :  60N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_090W_tot.zarr/.zmetadata')
+lat, lon :  60N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_100W_tot.zarr/.zmetadata')
+lat, lon :  60N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_110W_tot.zarr/.zmetadata')
+lat, lon :  60N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_120W_tot.zarr/.zmetadata')
+lat, lon :  60N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_130W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_130W_tot.zarr/.zmetadata')
+lat, lon :  60N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_140W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_140W_tot.zarr/.zmetadata')
+lat, lon :  60N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_150W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_150W_tot.zarr/.zmetadata')
+lat, lon :  60N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_160W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_160W_tot.zarr/.zmetadata')
+lat, lon :  60N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_170W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_170W_tot.zarr/.zmetadata')
+lat, lon :  60N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_60N_180W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_180W_tot.zarr/.zmetadata')
+lat, lon :  60N 000E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_000E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_000E_tot.zarr/.zmetadata')
+lat, lon :  60N 010E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_010E_tot.zarr/.zmetadata')
+lat, lon :  60N 020E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_020E_tot.zarr/.zmetadata')
+lat, lon :  60N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_030E_tot.zarr/.zmetadata')
+lat, lon :  60N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_040E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_040E_tot.zarr/.zmetadata')
+lat, lon :  60N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_050E_tot.zarr/.zmetadata')
+lat, lon :  60N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_060E_tot.zarr/.zmetadata')
+lat, lon :  60N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_070E_tot.zarr/.zmetadata')
+lat, lon :  60N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_080E_tot.zarr/.zmetadata')
+lat, lon :  60N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_090E_tot.zarr/.zmetadata')
+lat, lon :  60N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_100E_tot.zarr/.zmetadata')
+lat, lon :  60N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_110E_tot.zarr/.zmetadata')
+lat, lon :  60N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_120E_tot.zarr/.zmetadata')
+lat, lon :  60N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_130E_tot.zarr/.zmetadata')
+lat, lon :  60N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_140E_tot.zarr/.zmetadata')
+lat, lon :  60N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_150E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_150E_tot.zarr/.zmetadata')
+lat, lon :  60N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_160E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_160E_tot.zarr/.zmetadata')
+lat, lon :  60N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_60N_170E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/60N_170E_tot.zarr/.zmetadata')
+lat, lon :  70N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  70N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_020W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_020W_tot.zarr/.zmetadata')
+lat, lon :  70N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_030W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_030W_tot.zarr/.zmetadata')
+lat, lon :  70N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  70N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  70N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_060W.nc
+    Because :  '.zmetadata'
+lat, lon :  70N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_070W_tot.zarr/.zmetadata')
+lat, lon :  70N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_080W_tot.zarr/.zmetadata')
+lat, lon :  70N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_090W_tot.zarr/.zmetadata')
+lat, lon :  70N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_100W_tot.zarr/.zmetadata')
+lat, lon :  70N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_110W_tot.zarr/.zmetadata')
+lat, lon :  70N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_120W_tot.zarr/.zmetadata')
+lat, lon :  70N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_130W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_130W_tot.zarr/.zmetadata')
+lat, lon :  70N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_140W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_140W_tot.zarr/.zmetadata')
+lat, lon :  70N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_150W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_150W_tot.zarr/.zmetadata')
+lat, lon :  70N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_160W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_160W_tot.zarr/.zmetadata')
+lat, lon :  70N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_170W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_170W_tot.zarr/.zmetadata')
+lat, lon :  70N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_70N_180W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_180W_tot.zarr/.zmetadata')
+lat, lon :  70N 000E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_000E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_000E_tot.zarr/.zmetadata')
+lat, lon :  70N 010E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_010E_tot.zarr/.zmetadata')
+lat, lon :  70N 020E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_020E_tot.zarr/.zmetadata')
+lat, lon :  70N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_030E_tot.zarr/.zmetadata')
+lat, lon :  70N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_040E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_040E_tot.zarr/.zmetadata')
+lat, lon :  70N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_050E_tot.zarr/.zmetadata')
+lat, lon :  70N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_060E_tot.zarr/.zmetadata')
+lat, lon :  70N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_070E_tot.zarr/.zmetadata')
+lat, lon :  70N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_080E_tot.zarr/.zmetadata')
+lat, lon :  70N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_090E_tot.zarr/.zmetadata')
+lat, lon :  70N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_100E_tot.zarr/.zmetadata')
+lat, lon :  70N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_110E_tot.zarr/.zmetadata')
+lat, lon :  70N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_120E_tot.zarr/.zmetadata')
+lat, lon :  70N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_130E_tot.zarr/.zmetadata')
+lat, lon :  70N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_140E_tot.zarr/.zmetadata')
+lat, lon :  70N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_150E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_150E_tot.zarr/.zmetadata')
+lat, lon :  70N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_160E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_160E_tot.zarr/.zmetadata')
+lat, lon :  70N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_70N_170E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/70N_170E_tot.zarr/.zmetadata')
+lat, lon :  80N 010W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 020W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 030W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 040W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 050W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 060W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_060W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 070W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_070W_tot.zarr/.zmetadata')
+lat, lon :  80N 080W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_080W_tot.zarr/.zmetadata')
+lat, lon :  80N 090W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_090W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_090W_tot.zarr/.zmetadata')
+lat, lon :  80N 100W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_100W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_100W_tot.zarr/.zmetadata')
+lat, lon :  80N 110W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_110W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_110W_tot.zarr/.zmetadata')
+lat, lon :  80N 120W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_120W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_120W_tot.zarr/.zmetadata')
+lat, lon :  80N 130W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_130W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_130W_tot.zarr/.zmetadata')
+lat, lon :  80N 140W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_140W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_140W_tot.zarr/.zmetadata')
+lat, lon :  80N 150W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_150W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_150W_tot.zarr/.zmetadata')
+lat, lon :  80N 160W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_160W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_160W_tot.zarr/.zmetadata')
+lat, lon :  80N 170W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_170W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_170W_tot.zarr/.zmetadata')
+lat, lon :  80N 180W
+    Could not download tile  carbonplan_trace_emissions_30m_80N_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 000E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 010E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_010E_tot.zarr/.zmetadata')
+lat, lon :  80N 020E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_020E_tot.zarr/.zmetadata')
+lat, lon :  80N 030E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_030E_tot.zarr/.zmetadata')
+lat, lon :  80N 040E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_040E.nc
+    Because :  '.zmetadata'
+lat, lon :  80N 050E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_050E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_050E_tot.zarr/.zmetadata')
+lat, lon :  80N 060E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_060E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_060E_tot.zarr/.zmetadata')
+lat, lon :  80N 070E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_070E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_070E_tot.zarr/.zmetadata')
+lat, lon :  80N 080E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_080E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_080E_tot.zarr/.zmetadata')
+lat, lon :  80N 090E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_090E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_090E_tot.zarr/.zmetadata')
+lat, lon :  80N 100E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_100E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_100E_tot.zarr/.zmetadata')
+lat, lon :  80N 110E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_110E_tot.zarr/.zmetadata')
+lat, lon :  80N 120E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_120E_tot.zarr/.zmetadata')
+lat, lon :  80N 130E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_130E_tot.zarr/.zmetadata')
+lat, lon :  80N 140E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_140E_tot.zarr/.zmetadata')
+lat, lon :  80N 150E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_150E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_150E_tot.zarr/.zmetadata')
+lat, lon :  80N 160E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_160E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_160E_tot.zarr/.zmetadata')
+lat, lon :  80N 170E
+    Could not download tile  carbonplan_trace_emissions_30m_80N_170E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/80N_170E_tot.zarr/.zmetadata')
+lat, lon :  10S 010W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 020W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 030W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 040W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 50791    0 50791    0     0  19965      0 --:--:--  0:00:02 --:--:-- 19965
+{"cid":"bafybeigaibrydyubj4y6cgngomlx5pyg3wvphtrpjxqfuefe3pveghdhx4","estuaryId":9872835,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.96.205.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.124.67.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.116.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.247.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.217.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.96.9.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.209.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.232.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.126.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.205.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.17.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.61.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.146.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.16.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.113.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.89.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.121.116.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.71.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.12.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.143.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.119.248.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.121.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.137.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 050W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 51192    0 51192    0     0  17086      0 --:--:--  0:00:02 --:--:-- 17086
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+lat, lon :  10S 060W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 51931    0 51931    0     0  18189      0 --:--:--  0:00:02 --:--:-- 18183
+{"cid":"bafybeic3vp27bjbad43wiarjexy7vjsgwh67ehqicp7n2ix4dl6wozdhza","estuaryId":9872968,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.253.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.179.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.19.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.210.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.205.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.173.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.83.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.156.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.106.55.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.200.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.111.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.100.115.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.109.247.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.56.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.47.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.115.179.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.241.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.108.92.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.232.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.65.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.105.232.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.248.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.39.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.121.116.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.82.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.240.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.100.5.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.113.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 070W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 52327    0 52327    0     0  20344      0 --:--:--  0:00:02 --:--:-- 20344
+{"cid":"bafybeiceayykarx2rma5yjcculgmp4jqgsb33khikbscuhktzwkzlw5eae","estuaryId":9873075,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.46.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.133.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.53.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.210.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.198.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.156.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.105.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.247.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.101.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.126.135.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.247.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.190.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.112.170.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.214.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.104.242.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.101.151.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.108.85.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.1.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.193.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.107.137.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.64.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.144.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.27.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.174.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 080W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 52723    0 52723    0     0  20459      0 --:--:--  0:00:02 --:--:-- 20459
+{"cid":"bafybeiekv34um7cmelzynswbhz6mswlkqcyzinjamrzbdab734uneffqmq","estuaryId":9873146,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.105.232.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.118.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.102.146.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.95.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.14.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.209.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.173.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.80.63.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.113.179.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.117.212.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.114.209.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.27.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.122.61.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.105.226.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.110.208.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.111.217.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.118.82.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.125.81.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.116.89.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.120.165.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 090W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_090W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 100W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_100W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 110W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 120W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 130W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 140W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 150W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 160W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 170W
+    Could not download tile  carbonplan_trace_emissions_30m_10S_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 180W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 53112    0 53112    0     0  23112      0 --:--:--  0:00:02 --:--:-- 23112
+{"cid":"bafybeidpmdhfc5ij5arbdd7brsohul3etody2ntxbscluiaa2zjkp6nxua","estuaryId":9873232,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.123.27.192/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.97.213.0/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.103.118.64/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/100.98.150.128/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 000E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 53507    0 53507    0     0  23003      0 --:--:--  0:00:02 --:--:-- 23003
+{"cid":"bafybeicsx55a7npqbpcuob23jvahzlvyignlrjd5r3h3owyr7twd3rh7lq","estuaryId":9873437,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 53908    0 53908    0     0  19688      0 --:--:--  0:00:02 --:--:-- 19681
+curl: (26) Failed to open/read local data from file/application
+rm: carbonplan_trace_emissions_30m_10S_020E.nc: No such file or directory
+lat, lon :  10S 030E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 54599    0 54599    0     0  36302      0 --:--:--  0:00:01 --:--:-- 36302
+{"cid":"bafybeifop2k3glwl5jitmwwr2vqebhqbudkjidnncfnxrftocmxoi4pcqy","estuaryId":9875528,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 040E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 54988    0 54988    0     0  31711      0 --:--:--  0:00:01 --:--:-- 31693
+{"cid":"bafybeihvb62ujftij6dzufku4e2nsvhz2upj7zoh5yvr65b74czdz76o5a","estuaryId":9875811,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 050E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 55383    0 55383    0     0  30598      0 --:--:--  0:00:01 --:--:-- 30581
+{"cid":"bafybeielz74jjyxehclkt3rvd653ngysusqrl53jlvpfioxrmpguzqxtly","estuaryId":9875914,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 060E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 070E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_070E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 080E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 090E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_090E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 100E
+    Could not download tile  carbonplan_trace_emissions_30m_10S_100E.nc
+    Because :  '.zmetadata'
+lat, lon :  10S 110E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 55772    0 55772    0     0  45565      0 --:--:--  0:00:01 --:--:-- 45565
+{"cid":"bafybeielpldootjizwhzjkurahw4tqfjzmypdvactgv3r4msnhjpibjsfu","estuaryId":9876109,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 120E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 56167    0 56167    0     0  45223      0 --:--:--  0:00:01 --:--:-- 45186
+{"cid":"bafybeiesrmdxtqu27ubywsijul4fx6kibculloudptezu2ihodqei43uoy","estuaryId":9876252,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 130E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 56562    0 56562    0     0  47893      0 --:--:--  0:00:01 --:--:-- 47893
+{"cid":"bafybeihakl7qikiqlqxlygvgr5txw3rlyg3beus3xbrwgd5isyveut2eme","estuaryId":9876388,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 140E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 56957    0 56957    0     0  39718      0 --:--:--  0:00:01 --:--:-- 39718
+{"cid":"bafybeid4dgglsjql5qgjsya5mgk3pxtudaqayafsqd53265vjyr5epyyqe","estuaryId":9876519,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 150E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 57352    0 57352    0     0  49060      0 --:--:--  0:00:01 --:--:-- 49060
+{"cid":"bafybeicjbdb76w2hm6hiv7xdturtc376jtlqjvkhw2rx4cegcpvha4pxje","estuaryId":9876597,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 160E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 57747    0 57747    0     0  48608      0 --:--:--  0:00:01 --:--:-- 48567
+{"cid":"bafybeibpquvnqgwjuwskfbkzbn7bbjnurmfku4s6adbeme4ksnmev34h6q","estuaryId":9876770,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  10S 170E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 58136    0 58136    0     0  50773      0 --:--:--  0:00:01 --:--:-- 50773
+{"cid":"bafybeifhtx4n5d767jcel3zlnyjewlfniitw7qeipbd4ariykn37mnmbmm","estuaryId":9876827,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 010W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 020W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 030W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 040W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 050W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 58525    0 58525    0     0  42013      0 --:--:--  0:00:01 --:--:-- 42013
+{"cid":"bafybeidgmnhoozhmc6yvo4ixcxrpkbvywbfy7qh4gj4rpspc2coktnx63a","estuaryId":9876933,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 060W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 59263    0 59263    0     0  47034      0 --:--:--  0:00:01 --:--:-- 47034
+{"cid":"bafybeiai6lsfhvyaegq5osy56ayeflv46lklburrdo6sb73ukvueinxpcq","estuaryId":9877051,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 070W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 59652    0 59652    0     0  40801      0 --:--:--  0:00:01 --:--:-- 40773
+{"cid":"bafybeifafr3jhmnxeyj6tdsze2myhtv45eh7pqbwritnfjcmecvmdowizy","estuaryId":9877188,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 080W
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 60047    0 60047    0     0  49543      0 --:--:--  0:00:01 --:--:-- 49502
+{"cid":"bafybeigdecsmfkudc3pwj5iswmdciqizu77qlxcvppomjhzzu2237qe2zi","estuaryId":9877267,"providers":["/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 090W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_090W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 100W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_100W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 110W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 120W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 130W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 140W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 150W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 160W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 170W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 180W
+    Could not download tile  carbonplan_trace_emissions_30m_20S_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 000E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 010E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 60460    0 60460    0     0  46152      0 --:--:--  0:00:01 --:--:-- 46152
+{"cid":"bafybeieqnil4n6gpyzdjjyzzezxugq3edb3pellrdw44aklhwf3crqu3mm","estuaryId":9877343,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/10.0.0.2/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 020E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 60855    0 60855    0     0  52642      0 --:--:--  0:00:01 --:--:-- 52642
+{"cid":"bafybeidy73iimz2ldohn6ylbskncxgrfbig5bmtn6tkigxvofxpg3ojv4q","estuaryId":9877441,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 030E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 61244    0 61244    0     0  40693      0 --:--:--  0:00:01 --:--:-- 40666
+{"cid":"bafybeicjup6l4n2a2derwa547kbf2mawbomvdjjwcohdfnuimp3ze2ktdm","estuaryId":9877635,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 040E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 61633    0 61633    0     0  44149      0 --:--:--  0:00:01 --:--:-- 44149
+{"cid":"bafybeifjse3fpcrxpx23jia37mybl3fjajmoqdabdkt7d4aistgbi6aq2m","estuaryId":9877885,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 050E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 62022    0 62022    0     0  38570      0 --:--:--  0:00:01 --:--:-- 38570
+{"cid":"bafybeigusvljxymepvwcyyol5xqa4j4wc3udcfrywproxdhtbjfukoxlea","estuaryId":9877965,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 060E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 070E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_070E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 080E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 090E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_090E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 100E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_100E.nc
+    Because :  '.zmetadata'
+lat, lon :  20S 110E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 62411    0 62411    0     0  32778      0 --:--:--  0:00:01 --:--:-- 32761
+{"cid":"bafybeia3agrj25ly6fw3uasqo5ggrsrxcfnzjmraxlsvmicu3g3atoeahe","estuaryId":9927304,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 120E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 63143    0 63143    0     0  39292      0 --:--:--  0:00:01 --:--:-- 39292
+{"cid":"bafybeihvznc2tkmsvasuudp4negkzp4pcmteofjr552csvhv5afjyiqgua","estuaryId":9927464,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 130E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 63574    0 63574    0     0  29777      0 --:--:--  0:00:02 --:--:-- 29777
+{"cid":"bafybeieg6y44f7pn7kwkfqw4lcm7cgbvyultgy6nnhu4vz2yx24the7x7m","estuaryId":9927769,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 140E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 63969    0 63969    0     0  32537      0 --:--:--  0:00:01 --:--:-- 32521
+{"cid":"bafybeidrozqptrexv5cxp7urvx7jhzcidnuc4kpshnhx3wwesxgdszlyfq","estuaryId":9927959,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 150E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 64358    0 64358    0     0  42452      0 --:--:--  0:00:01 --:--:-- 42452
+{"cid":"bafybeidp7m7fnbnhksbn6im2huxsccaxteo2ircr6wexyafotb252lp37i","estuaryId":9928084,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 160E
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 64753    0 64753    0     0  38984      0 --:--:--  0:00:01 --:--:-- 38984
+{"cid":"bafybeihigqvzljg2ctzkaizqzq5fihudx6nv6hbp4cnerhdmp6xxuqiedm","estuaryId":9928192,"providers":["/ip4/147.75.49.71/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/tcp/6745/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/147.75.49.71/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien","/ip4/127.0.0.1/udp/6746/quic/p2p/12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien"]}
+lat, lon :  20S 170E
+    Could not download tile  carbonplan_trace_emissions_30m_20S_170E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 010W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 020W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 030W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 040W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 050W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 060W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_060W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_060W_tot.zarr/.zmetadata')
+lat, lon :  30S 070W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_070W_tot.zarr/.zmetadata')
+lat, lon :  30S 080W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_080W_tot.zarr/.zmetadata')
+lat, lon :  30S 090W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_090W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 100W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_100W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 110W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 120W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 130W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 140W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 150W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 160W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 170W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 180W
+    Could not download tile  carbonplan_trace_emissions_30m_30S_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 000E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 010E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_010E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_010E_tot.zarr/.zmetadata')
+lat, lon :  30S 020E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_020E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_020E_tot.zarr/.zmetadata')
+lat, lon :  30S 030E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_030E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_030E_tot.zarr/.zmetadata')
+lat, lon :  30S 040E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_040E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 050E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_050E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 060E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 070E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_070E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 080E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 090E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_090E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 100E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_100E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 110E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_110E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_110E_tot.zarr/.zmetadata')
+lat, lon :  30S 120E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_120E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_120E_tot.zarr/.zmetadata')
+lat, lon :  30S 130E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_130E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_130E_tot.zarr/.zmetadata')
+lat, lon :  30S 140E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_140E_tot.zarr/.zmetadata')
+lat, lon :  30S 150E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_150E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_150E_tot.zarr/.zmetadata')
+lat, lon :  30S 160E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  30S 170E
+    Could not download tile  carbonplan_trace_emissions_30m_30S_170E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/30S_170E_tot.zarr/.zmetadata')
+lat, lon :  40S 010W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 020W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 030W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 040W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 050W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 060W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_060W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 070W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40S_070W_tot.zarr/.zmetadata')
+lat, lon :  40S 080W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40S_080W_tot.zarr/.zmetadata')
+lat, lon :  40S 090W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_090W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 100W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_100W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 110W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 120W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 130W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 140W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 150W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 160W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 170W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 180W
+    Could not download tile  carbonplan_trace_emissions_30m_40S_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 000E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 010E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_010E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 020E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_020E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 030E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_030E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 040E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_040E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 050E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_050E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 060E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 070E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_070E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 080E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 090E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_090E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 100E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_100E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 110E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_110E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 120E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_120E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 130E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_130E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 140E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_140E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40S_140E_tot.zarr/.zmetadata')
+lat, lon :  40S 150E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  40S 160E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_160E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40S_160E_tot.zarr/.zmetadata')
+lat, lon :  40S 170E
+    Could not download tile  carbonplan_trace_emissions_30m_40S_170E.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/40S_170E_tot.zarr/.zmetadata')
+lat, lon :  50S 010W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_010W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 020W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_020W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 030W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_030W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 040W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_040W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 050W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_050W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 060W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_060W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50S_060W_tot.zarr/.zmetadata')
+lat, lon :  50S 070W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_070W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50S_070W_tot.zarr/.zmetadata')
+lat, lon :  50S 080W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_080W.nc
+    Because :  403, message='Forbidden', url=URL('https://carbonplan-climatetrace.s3.us-west-2.amazonaws.com/v0.4/tiles/30m/50S_080W_tot.zarr/.zmetadata')
+lat, lon :  50S 090W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_090W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 100W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_100W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 110W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_110W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 120W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_120W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 130W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_130W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 140W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_140W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 150W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_150W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 160W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_160W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 170W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_170W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 180W
+    Could not download tile  carbonplan_trace_emissions_30m_50S_180W.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 000E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_000E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 010E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_010E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 020E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_020E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 030E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_030E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 040E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_040E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 050E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_050E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 060E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_060E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 070E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_070E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 080E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_080E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 090E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_090E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 100E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_100E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 110E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_110E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 120E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_120E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 130E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_130E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 140E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_140E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 150E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_150E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 160E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_160E.nc
+    Because :  '.zmetadata'
+lat, lon :  50S 170E
+    Could not download tile  carbonplan_trace_emissions_30m_50S_170E.nc
+    Because :  '.zmetadata'
