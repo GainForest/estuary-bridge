@@ -1,4 +1,9 @@
-# Estuary Bridge
+<img
+  src='https://dweb.link/ipfs/bafkreihfkhenj6tpjp7kbgtwf6tdvqgbqb5qmg3wrzfvhaiu652swfuqki'
+  height='48'
+/>
+
+# gainforest / Estuary Bridge
 
 ## ipfs
 Creating a permanent database of interest-worthy maps/files on Estuary. 
